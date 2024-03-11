@@ -1,0 +1,7 @@
+SECRET_KEY=django-insecure-exxxxxxxxxxxxxxxxxxxxxxxxx
+DATABASE_NAME=cicd_db
+DATABASE_USER=xxxxxxxx
+DATABASE_PASS=xxxxxxxxxxxxx
+DEBUG=True
+ADMIN_EMAIL=timepro.online@gmail.com
+ADMIN_EMAIL_PSW=xxxxxxxxxxxxxxxxxxxx
